@@ -1,5 +1,5 @@
 # test
 
-[Foo](#foo)
+[Foo](##foo)
 
-# Foo
+## Foo
