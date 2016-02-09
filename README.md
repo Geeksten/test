@@ -1,5 +1,5 @@
 # test
 
-[Foo](###foo)
+[1. Foo](###foo)
 
-### Foo
+### 1. Foo
