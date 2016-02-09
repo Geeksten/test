@@ -1,1 +1,5 @@
 # test
+
+[Foo](#foo)
+
+# Foo
